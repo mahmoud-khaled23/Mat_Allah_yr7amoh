@@ -29,4 +29,5 @@ if __name__ == '__main__':
 
     salaries_plot()
 
+    print("klo ta7t elcontrol")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
